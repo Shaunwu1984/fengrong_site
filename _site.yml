@@ -5,5 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "People"
       href: about.html
+    - text: "Events"
+      href: about2.html

@@ -1,5 +1,5 @@
 ---
-title: "Nick's Website"
+title: "Logics of information Flow in Social Networks"
 ---
 
 Hello, World!
